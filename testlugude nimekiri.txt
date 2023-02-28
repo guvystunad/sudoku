@@ -1,0 +1,8 @@
+Testlugu:
+	a) kui vastust pole võimalik saada, siis väljastatakse selle kohta vastav tekst ekraanil
+	b) kui numbreid on reeglite vastaselt sisestatud, siis näidatakse ekraanil, kus viga on ning antakse kasutajale võimalus viga parandada
+	c) kui on võimalik mitu vastust, siis väljastatakse ekraanil vastav arv vastuseid
+	d) kui sisestatakse juba ära lahendatud sudoku, siis kontrollitakse see üle ning kui see on õige siis väljastatakse vastav tekst ekraanil
+	e) kui sisestatakse juba ära lahendatud sudoku, siis kontrollitakse see üle ning kui see on vale, siis väljastatakse ekraanile vastav veateade
+	f) kui algandmeid on lahendamiseks liiga vähe väljastatakse vea teada ning antakse kasutajale valik, kas rohkem andmeid lisada või saada nii suur osa lahendusest, kui arvuti suutis välja mõelda
+	g) kasutajale antakse ka võimalus kontrollida, kas seni lahendatud sudoku on õige või vale, kui on õige, siis väljastatakse vastav tekst, ja kui on vale, siis väljastatakse vastav tekst ning tuuakse välja potensiaalsed veakohad
